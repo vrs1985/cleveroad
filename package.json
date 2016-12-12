@@ -1,0 +1,17 @@
+{
+  "name": "cleveroad",
+  "version": "1.0.0",
+  "description": "test task for Cleveroad Ink.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Komisarenko",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "jquery": "^3.1.1",
+    "normalize": "^0.3.1"
+  }
+}

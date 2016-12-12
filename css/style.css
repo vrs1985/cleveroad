@@ -1,0 +1,18 @@
+.breadcrumb>li{
+    color: #337ab7;
+}
+.capitalLetter{
+    text-transform: capitalize;
+}
+.bold{
+    font-weight: 600;
+}
+.h2em{
+    min-height: 2em;
+}
+.target-name, #logout{
+    cursor: pointer;
+}
+.input-group{
+    margin-bottom: 0.5em;
+}
